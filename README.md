@@ -1,6 +1,8 @@
 
 
-GRLB-Scara для MEGA2560 ramps v1.4 основаная на GRLB 0.9j.
+GRLB-Scara для MEGA2560 ramps v1.4 основаная на GRLB 0.9j. Основной проект:
+
+https://www.thingiverse.com/thing:3096135.
 
 Серво-привод управляется командой "M3 Sx" (x задает угол, изменяется: 0-1000) и "M5".
 

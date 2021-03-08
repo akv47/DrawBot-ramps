@@ -6,4 +6,4 @@ GRLB-Scara для MEGA2560 ramps v1.4 основаная на GRLB 0.9j.
 
 Добавлена возможность калибровки DrawBot командой "$M". Калибровка производиться из положения плеча под углом 45 градусов, при этом высчитываются и сохраняются параметры theta ($30) и psi ($31).
 
-[![Смотреть демо](https://github.com/akv47/DrawBot_nano/blob/main/pic/video.jpg)](https://youtu.be/nXxYWECz4rc)
+[![Смотреть демо](https://github.com/akv47/DrawBot-ramps/blob/main/pic/ramps.png)](https://youtu.be/nXxYWECz4rc)

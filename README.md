@@ -12,4 +12,4 @@ https://www.thingiverse.com/thing:3096135.
 
 Добавлена возможность калибровки DrawBot командой "$M". Калибровка производиться из положения плеча под углом 45 градусов, при этом высчитываются и сохраняются параметры theta ($30) и psi ($31).
 
-[![Смотреть демо](https://github.com/akv47/DrawBot-ramps/blob/main/pic/ramps.png)](https://youtu.be/nXxYWECz4rc)
+[![Смотреть](http="//img.youtube.com/vi/nXxYWECz4rc/mqdefault.jpg)](https://youtu.be/nXxYWECz4rc)
